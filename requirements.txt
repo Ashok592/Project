@@ -1,0 +1,9 @@
+ipykernel
+pandas
+tensorflow
+matplotlib
+seaborn
+opencv-python
+tifffile
+scikit-learn
+scikit-image
